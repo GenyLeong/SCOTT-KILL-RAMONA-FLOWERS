@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="3" extheight="544" extwidth="832" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="0.0" height="480" id="0" name="level one" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="768">
+    <layers>
+        <color-bg blue="255" green="255" red="255"/>
+        <background blendMode="normal" customScrollFactor="false" id="1" locked="true" name="stars" opacity="100" order="1" rid="6" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="0" id="0" name="ship 1" sx="1.1733333" sy="1.2837838" x="312" y="310" z="0"/>
+        <actor a="0.0" aid="2" c="false" group="4" id="2" name="ramona 2" sx="1.0" sy="1.0" x="47" y="40" z="0"/>
+        <actor a="0.0" aid="3" c="false" group="4" id="2" name="ramona 3" sx="1.0" sy="1.0" x="173" y="43" z="0"/>
+        <actor a="0.0" aid="4" c="false" group="4" id="2" name="ramona 4" sx="1.0" sy="1.0" x="304" y="43" z="0"/>
+        <actor a="0.0" aid="5" c="false" group="4" id="2" name="ramona 5" sx="1.0" sy="1.0" x="420" y="45" z="0"/>
+        <actor a="0.0" aid="7" c="false" group="4" id="16" name="pattel 7" sx="1.0" sy="1.0" x="95" y="118" z="0"/>
+        <actor a="0.0" aid="8" c="false" group="4" id="16" name="pattel 8" sx="1.0" sy="1.0" x="358" y="152" z="0"/>
+        <actor a="0.0" aid="9" c="false" group="4" id="16" name="pattel 9" sx="1.0" sy="1.0" x="488" y="119" z="0"/>
+        <actor a="0.0" aid="10" c="false" group="4" id="12" name="todd 10" sx="1.0" sy="1.0" x="211" y="120" z="0"/>
+        <actor a="0.0" aid="11" c="false" group="4" id="14" name="gideon 11" sx="1.0" sy="1.0" x="466" y="253" z="0"/>
+        <actor a="0.0" aid="12" c="false" group="4" id="14" name="gideon 12" sx="1.0" sy="1.0" x="70" y="228" z="0"/>
+        <actor a="0.0" aid="13" c="false" group="4" id="14" name="gideon 13" sx="1.0" sy="1.0" x="254" y="280" z="0"/>
+    </actors>
+    <snippets/>
+    <terrain/>
+    <atlases members="" retainAtlases="true"/>
+</scene>
